@@ -1,7 +1,5 @@
-# language-assembly-y86-64
-## An assembly grammar for Atom.
-------------
-
+# atom-language-assembly-y86-64
+## Done by a UBC Student Struggling with CPSC313 At This Moment In Time 
 * Unamused by no support of y86-64 grammar for Atom IDE
 * Decides to look at the source code of a x86 Atom Language repo
 * Studied a bit of REGEX and now we are here
