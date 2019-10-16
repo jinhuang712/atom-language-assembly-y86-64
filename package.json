@@ -1,6 +1,6 @@
 {
   "name": "language-assembly-y86-64",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Provides Syntax Highlighting For y86-64 Assembly Language.",
   "repository": "https://github.com/jinhuang712/atom-language-assembly-y86-64",
   "license": "Public Domain",
